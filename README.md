@@ -1,0 +1,1 @@
+This repository will contain training for using the Open CV library for processing image data of clothing tags
